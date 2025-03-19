@@ -1,4 +1,4 @@
-# SistemaBancarioV2
+Versão 2
 
 Este é um projeto de Banco Digital desenvolvido em Python. (Sem Programação Orientada a Objetos)
 
